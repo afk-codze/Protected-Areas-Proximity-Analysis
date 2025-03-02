@@ -1,0 +1,23 @@
+[
+    { "id": 1, "address": "Via Roma, 1, 80045 Pompei NA" },
+    { "id": 2, "address": "Piazza del Duomo, 12, 50122 Firenze FI" },
+    { "id": 3, "address": "Via San Giovanni Bosco, 5, 75100 Matera MT" },
+    { "id": 4, "address": "Via delle Vigne, 19, 00074 Nemi RM" },
+    { "id": 5, "address": "Corso Umberto I, 22, 07041 Alghero SS" },
+    { "id": 6, "address": "Via Marina Grande, 198, 80067 Sorrento NA" },
+    { "id": 7, "address": "Via dell'Indipendenza, 45, 40121 Bologna BO" },
+    { "id": 8, "address": "Via dei Fori Imperiali, 21, 00186 Roma RM" },
+    { "id": 9, "address": "Piazza San Marco, 1, 30124 Venezia VE" },
+    { "id": 10, "address": "Via Etnea, 100, 95131 Catania CT" },
+    { "id": 11, "address": "Via Toledo, 156, 80132 Napoli NA" },
+    { "id": 12, "address": "Via Giuseppe Garibaldi, 89, 16124 Genova GE" },
+    { "id": 13, "address": "Piazza Castello, 3, 10123 Torino TO" },
+    { "id": 14, "address": "Via Santa Maria, 94, 56126 Pisa PI" },
+    { "id": 15, "address": "Via Vittorio Emanuele, 327, 90134 Palermo PA" },
+    { "id": 16, "address": "Via Cavour, 21, 50129 Firenze FI" },
+    { "id": 17, "address": "Via Mazzini, 25, 37121 Verona VR" },
+    { "id": 18, "address": "Via San Carlo, 98, 80132 Napoli NA" },
+    { "id": 19, "address": "Via Dante Alighieri, 14, 24121 Bergamo BG" },
+    { "id": 20, "address": "Via dei Mille, 15, 09124 Cagliari CA" },
+    { "id": 21, "address": "Via Girolamo Cardano, 14, 48015 Cervia RA"}
+]
